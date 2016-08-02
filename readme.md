@@ -1,1 +1,1 @@
-Inspired by https://github.com/BHSPitMonkey/vmflib
+Similar to https://github.com/BHSPitMonkey/vmflib
